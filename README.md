@@ -7,6 +7,8 @@
 
 This is a Laravel 5 wrapper for the [PHP Bugherd Api](https://github.com/beleneglorion/php-bugherd-api) package.
 
+Changing something.
+
 ##What is Bugherd?
 [BugHerd](https://bugherd.com/about/) is a simple point and click bug tracker, that was founded in 2011 by Alan Downie and Matt Milosavljevic.
 
